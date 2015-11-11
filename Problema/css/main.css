@@ -1,1 +1,8 @@
-/* Ingresa tu código CSS aquí */
+
+body {
+	min-height: 100%;
+	padding-top: 55px;
+}
+.carousel-inner {
+    height: 500px;
+   }
