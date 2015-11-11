@@ -3,6 +3,13 @@ body {
 	min-height: 100%;
 	padding-top: 55px;
 }
-.carousel-inner {
-    height: 500px;
-   }
+
+   /* height: 500px;*/
+ 
+ h1 {
+ 	padding-top: 5%;
+ }
+ .vi img {
+ 	width: 100%;
+ }
+  
